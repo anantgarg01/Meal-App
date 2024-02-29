@@ -1,5 +1,5 @@
 # Meal-App
-#DEmo: https://anantgarg01.github.io/Meal-App/
+# Demo: https://anantgarg01.github.io/Meal-App/
 
 
 About the Project :-
